@@ -1,0 +1,4 @@
+baseURL = "https://musicreggerooptol.vercel.app"
+languageCode = "en-us"
+title = "Love Music 2021"
+theme = "tale-hugo-master"
